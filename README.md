@@ -15,7 +15,7 @@ The computer fan was less of an instrument and more of a knob. Whenever I slowed
 
 There should be a video I post here. I forgot to take a lot of photos.
 
-**[VIDEO of the final project in action](https://drive.google.com/file/d/16bdbqqDCwxRX-Vt-3ip4HXEvBS_aFvhs/view?usp=sharing)**
+### **[VIDEO of the final project in action](https://drive.google.com/file/d/16bdbqqDCwxRX-Vt-3ip4HXEvBS_aFvhs/view?usp=sharing)**
 
 *design notes*
 
