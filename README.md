@@ -17,6 +17,10 @@ There should be a video I post here. I forgot to take a lot of photos.
 
 ### **[VIDEO of the final project in action](https://drive.google.com/file/d/16bdbqqDCwxRX-Vt-3ip4HXEvBS_aFvhs/view?usp=sharing)**
 
+### **[VIDEO of the a calculator program display test](https://drive.google.com/file/d/1CWJI3MKuUQ1t2zny6-4-ZAwdSkghjxdC/view?usp=sharing)**
+
+I did not actually use this display, but I thought it was cool. I may implement this in a future project.  
+
 *design notes*
 
 <img src = "images/image1.png" width = "600">
